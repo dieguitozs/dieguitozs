@@ -2,9 +2,7 @@
 - 👋 Olá, eu sou **@dieguitozs**
 - 👀 Estou interessado em aprender e programar novas linguagens
 - 🌱 Estou aprendendo a programar recentemente as linguagens de Scratch e JavaScript
-- 📫 Meu e-mail de contato é (e-mail)diego.moreno@escola.pr.gov.br
+- 📫 Meu e-mail de contato é [e-mail](diego.moreno@escola.pr.gov.br)
 
-<!---
-dieguitozs/dieguitozs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
